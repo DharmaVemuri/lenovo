@@ -1,0 +1,27 @@
+
+
+
+.btn1
+{
+
+margin-top:3%;
+float: right;
+ 
+}
+
+
+.form-group::after
+{
+    padding:none;
+    margin: 0%;
+}
+
+.button{
+    width: 200px;
+}
+
+
+.low
+{
+    margin-right:20px;
+}
