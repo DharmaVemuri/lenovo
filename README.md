@@ -1,6 +1,6 @@
 # lenovo
 sample project
 
-changes were made in the subdomain branch
+changes were made in the subdomain 
 No changes were done as it is sample project
-
+2domain changes were made
