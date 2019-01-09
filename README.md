@@ -1,5 +1,5 @@
 # lenovo
-sample project
+sample 
 
 changes were made in the subdomain 
 No changes were done as it is sample project
