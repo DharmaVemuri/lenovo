@@ -1,0 +1,66 @@
+<div class=" container content">
+
+
+
+
+
+
+  <div class="col-xl-10">
+    <div class="offset-2">
+      <h3> create new employee </h3>
+    </div>
+  </div>
+
+
+
+
+  <div class="col-xl-6">
+
+
+
+
+      <div class="form-group ">
+        <label>Employee name</label>
+        <input type="text" class="form-control" placeholder="Enter Name" [(ngModel)]="Regdetails.ename" >
+
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" class="form-control" placeholder="Password" [(ngModel)]="Regdetails.epassword">
+      </div>
+
+      <div class="form-group">
+        <label>Re-enter Password</label>
+        <input type="password" class="form-control" placeholder="Re-enter Password" [(ngModel)]="Regdetails.erepassword">
+      </div>
+
+      <div class="form-group">
+        <label>Role</label>
+        <select class="form-control" [(ngModel)]="Regdetails.erole">
+          <option> Select Role </option>
+          <option> SA </option>
+          <option> BA </option>
+          <option> DM </option>
+          <option> SE </option>
+          <option> QA </option>
+          <option> PTO </option>
+        </select>
+      </div>
+
+
+
+      <br>
+      <button type="submit" class="offset-1 btn btn-primary" (click)="submit()">Submit</button>
+
+
+
+
+
+
+  </div>
+
+
+
+
+
+</div>
