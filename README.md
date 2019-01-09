@@ -1,5 +1,5 @@
 # lenovo
 sample 
 
-changes were made in the subdomain 
+master changes were done
 
