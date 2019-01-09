@@ -1,5 +1,4 @@
 # lenovo
 sample 
 
-changes were made in the subdomain 
-
+sub domainal changes done to pull in to master branch
